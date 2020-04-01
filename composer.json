@@ -1,7 +1,7 @@
 {
-    "name": "sanmai/cdek-sdk",
+    "name": "jhladka/cdek-sdk",
     "type": "library",
-    "description": "СДЭК PHP SDK, библиотека для работы с API СДЭК",
+    "description": "CDEK PHP SDK, library for API CDEK",
     "keywords": [
         "CDEK",
         "sdk",
